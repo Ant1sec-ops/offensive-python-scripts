@@ -3,6 +3,7 @@
 # Title: Offensive Penetration Testing Student
 # Organisation: HackerAssociate
 #Usage : On plain text : put plain text 
+# python2 CipherDecrypter.py
 # On encrypted text: put cipher text
 # Note: Try exact same text and try after avoiding/deleting the special characters.
 
