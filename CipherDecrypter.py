@@ -4,6 +4,7 @@
 # Organisation: HackerAssociate
 #Usage : On plain text : put plain text 
 # On encrypted text: put cipher text
+# Note: Try exact same text and try after avoiding/deleting the special characters.
 
 plaintext = "Plain-text-message"
 ciphertext = "encrypted-text"
